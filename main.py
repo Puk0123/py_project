@@ -1,1 +1,2 @@
-from funcs import func
+from funcs import func_1
+
