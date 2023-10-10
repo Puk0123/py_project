@@ -5,3 +5,10 @@ def func():
     print(count)
 
 func()
+
+
+def func_2():
+    count = b - a
+    print(count)
+
+func_2()
