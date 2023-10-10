@@ -7,8 +7,8 @@ def func_1():
 func_1()
 
 
-# def func_2():
-#     count = b - a
-#     print(count)
-#
-# func_2()
+def func_2():
+    count = b - a
+    print(count)
+
+func_2()
